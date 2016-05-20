@@ -1,0 +1,8 @@
+[package]
+name = "go"
+version = "0.0.1"
+license = "MIT"
+authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
+description = "Go!"
+homepage = "https://github.com/hilbert-space/go"
+repository = "https://github.com/hilbert-space/go"
